@@ -1,0 +1,10 @@
+ td {
+  border-bottom: 2px solid rgb(129, 51, 51);
+  border-right: 2px solid rgb(129, 51, 51);
+}
+button {
+  margin: 50px;
+  width: 10vw;
+  height:10vh;
+  background-color: aqua
+}

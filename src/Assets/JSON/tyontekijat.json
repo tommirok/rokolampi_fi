@@ -1,0 +1,36 @@
+{
+  "tyontekijat": [
+    {
+      "firstName": "Mauno",
+      "lastName": "Ahonen",
+      "age": "30",
+      "address": "kutomo kuja",
+      "phone1": null,
+      "phone2": "0405414184"
+    },
+    {
+      "firstName": "Matti",
+      "lastName": "Näsä",
+      "age": "35",
+      "address": "kutomo polku",
+      "phone1": "0401414182",
+      "phone2": null
+    },
+    {
+      "firstName": "Raimo",
+      "lastName": "Vormisto",
+      "age": "39",
+      "address": "kutomo tie",
+      "phone1": null,
+      "phone2": "0405414184"
+    },
+    {
+      "firstName": "Timo",
+      "lastName": "Silakka",
+      "age": "45",
+      "address": "kutomo taival",
+      "phone1": "0401414182",
+      "phone2": null
+    }
+  ]
+}
