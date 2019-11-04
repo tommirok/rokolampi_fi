@@ -1,0 +1,27 @@
+.nav {
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.80);
+  z-index: 1;
+  height: 48px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom-right-radius : 2px;
+  border-bottom-left-radius : 2px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.nav a.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}

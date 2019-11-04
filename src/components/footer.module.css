@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.someContainer {
+  display: flex;
+}
+
+.fblogo {
+  flex: 1;
+
+  
+}
+.iglogo {
+  flex: 1;
+  text-indent: -9999px;
+  background: url(../images/instagram.svg) no-repeat;
+  background-size: 48px 48px;
+}
+
